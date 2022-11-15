@@ -69,5 +69,5 @@ f2py --f90flags="-Ofast" -c LinearHillSSA.f90 -m ssa
 
 ## Tutorial and Examples
 
-For the model notation description, examples and more, head to the [user guide](doc/user_guide.md).
+For the model notation description, examples and more, head to the [user guide](doc/user_guide.pdf).
 
